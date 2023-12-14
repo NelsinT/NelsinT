@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nelsoncunha2101@gmail.com or @nelsint on discord**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
