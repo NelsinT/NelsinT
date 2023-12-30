@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelsint&label=Profile%20views&color=00ffaa&style=flat" alt="nelsint" /> </p>
 
-- 🔭 I’m currently working on **Final Project in C**
+- 🔭 I’m currently working on **Final Project in C and Sueca game **
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C, GDSCRIPT **
 
 - 👨‍💻 All of my projects are available at [https://github.com/NelsinT](https://github.com/NelsinT)
 
