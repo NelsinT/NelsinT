@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelsint&label=Profile%20views&color=00ffaa&style=flat" alt="nelsint" /> </p>
 
-- 🔭 I’m currently working on Final Project in C and Sueca game 
+- 🔭 I’m currently working on Final Project in C and Sueca game in GDSCRIPT
 
 - 🌱 I’m currently learning C, GDSCRIPT 
 
