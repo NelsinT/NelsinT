@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelsint&label=Profile%20views&color=0e75b6&style=flat" alt="nelsint" /> </p>
 
-- 🔭 I’m currently working on **Arduinos Systems and freelancing** 
+- 🔭 I’m currently working on ** On a time management website ** 
 
 - 🌱 I’m currently learning **C++,C,HMTL,CSS,JAVASCRIPT**
 
