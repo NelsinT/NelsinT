@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelsint&label=Profile%20views&color=0e75b6&style=flat" alt="nelsint" /> </p>
 
-- 🔭 I’m currently working on **FreeLancing** 
+- 🔭 I’m currently working on  ** university stuff **
 
-- 🌱 I’m currently learning **C++,C,HMTL,CSS,JAVASCRIPT**
+- 🌱 I’m currently learning **JAVA,SQL**
 
 - 👨‍💻 All of my projects are available at [github.com/NelsinT](github.com/NelsinT)
 
