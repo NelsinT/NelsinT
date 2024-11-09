@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on  **Pygame**
 
-- 🌱 I’m currently learning **JAVA,SQL**
+- 🌱 I’m currently learning **JAVA,SQL,Python**
 
 - 👨‍💻 All of my projects are available at [github.com/NelsinT](github.com/NelsinT)
 
